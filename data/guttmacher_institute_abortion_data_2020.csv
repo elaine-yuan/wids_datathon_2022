@@ -1,0 +1,460 @@
+measure_name,datum,state_id,state_name
+"% change in abortion rate, 2017-2020",-6,AL,Alabama
+"% change in abortion rate, 2017-2020",0,AK,Alaska
+"% change in abortion rate, 2017-2020",1,AZ,Arizona
+"% change in abortion rate, 2017-2020",2,AR,Arkansas
+"% change in abortion rate, 2017-2020",17,CA,California
+"% change in abortion rate, 2017-2020",3,CO,Colorado
+"% change in abortion rate, 2017-2020",-6,CT,Connecticut
+"% change in abortion rate, 2017-2020",-5,DE,Delaware
+"% change in abortion rate, 2017-2020",62,DC,District of Columbia
+"% change in abortion rate, 2017-2020",6,FL,Florida
+"% change in abortion rate, 2017-2020",12,GA,Georgia
+"% change in abortion rate, 2017-2020",1,HI,Hawaii
+"% change in abortion rate, 2017-2020",23,ID,Idaho
+"% change in abortion rate, 2017-2020",28,IL,Illinois
+"% change in abortion rate, 2017-2020",2,IN,Indiana
+"% change in abortion rate, 2017-2020",-6,IA,Iowa
+"% change in abortion rate, 2017-2020",19,KS,Kansas
+"% change in abortion rate, 2017-2020",26,KY,Kentucky
+"% change in abortion rate, 2017-2020",-25,LA,Louisiana
+"% change in abortion rate, 2017-2020",15,ME,Maine
+"% change in abortion rate, 2017-2020",4,MD,Maryland
+"% change in abortion rate, 2017-2020",-10,MA,Massachusetts
+"% change in abortion rate, 2017-2020",18,MI,Michigan
+"% change in abortion rate, 2017-2020",1,MN,Minnesota
+"% change in abortion rate, 2017-2020",42,MS,Mississippi
+"% change in abortion rate, 2017-2020",-98,MO,Missouri
+"% change in abortion rate, 2017-2020",-1,MT,Montana
+"% change in abortion rate, 2017-2020",7,NE,Nebraska
+"% change in abortion rate, 2017-2020",9,NV,Nevada
+"% change in abortion rate, 2017-2020",-10,NH,New Hampshire
+"% change in abortion rate, 2017-2020",4,NJ,New Jersey
+"% change in abortion rate, 2017-2020",26,NM,New Mexico
+"% change in abortion rate, 2017-2020",10,NY,New York
+"% change in abortion rate, 2017-2020",5,NC,North Carolina
+"% change in abortion rate, 2017-2020",-1,ND,North Dakota
+"% change in abortion rate, 2017-2020",1,OH,Ohio
+"% change in abortion rate, 2017-2020",100,OK,Oklahoma
+"% change in abortion rate, 2017-2020",-13,OR,Oregon
+"% change in abortion rate, 2017-2020",4,PA,Pennsylvania
+"% change in abortion rate, 2017-2020",-20,RI,Rhode Island
+"% change in abortion rate, 2017-2020",0,SC,South Carolina
+"% change in abortion rate, 2017-2020",-74,SD,South Dakota
+"% change in abortion rate, 2017-2020",-12,TN,Tennessee
+"% change in abortion rate, 2017-2020",1,TX,Texas
+"% change in abortion rate, 2017-2020",0,UT,Utah
+"% change in abortion rate, 2017-2020",-6,VT,Vermont
+"% change in abortion rate, 2017-2020",8,VA,Virginia
+"% change in abortion rate, 2017-2020",-3,WA,Washington
+"% change in abortion rate, 2017-2020",-30,WV,West Virginia
+"% change in abortion rate, 2017-2020",8,WI,Wisconsin
+"% change in abortion rate, 2017-2020",-31,WY,Wyoming
+"% of all U.S. abortions, by state of occurrence",0.6,AL,Alabama
+"% of all U.S. abortions, by state of occurrence",0.1,AK,Alaska
+"% of all U.S. abortions, by state of occurrence",1.4,AZ,Arizona
+"% of all U.S. abortions, by state of occurrence",0.3,AR,Arkansas
+"% of all U.S. abortions, by state of occurrence",16.6,CA,California
+"% of all U.S. abortions, by state of occurrence",1.4,CO,Colorado
+"% of all U.S. abortions, by state of occurrence",1.2,CT,Connecticut
+"% of all U.S. abortions, by state of occurrence",0.2,DE,Delaware
+"% of all U.S. abortions, by state of occurrence",1,DC,District of Columbia
+"% of all U.S. abortions, by state of occurrence",8.3,FL,Florida
+"% of all U.S. abortions, by state of occurrence",4.5,GA,Georgia
+"% of all U.S. abortions, by state of occurrence",0.3,HI,Hawaii
+"% of all U.S. abortions, by state of occurrence",0.2,ID,Idaho
+"% of all U.S. abortions, by state of occurrence",5.7,IL,Illinois
+"% of all U.S. abortions, by state of occurrence",0.8,IN,Indiana
+"% of all U.S. abortions, by state of occurrence",0.4,IA,Iowa
+"% of all U.S. abortions, by state of occurrence",0.9,KS,Kansas
+"% of all U.S. abortions, by state of occurrence",0.4,KY,Kentucky
+"% of all U.S. abortions, by state of occurrence",0.8,LA,Louisiana
+"% of all U.S. abortions, by state of occurrence",0.3,ME,Maine
+"% of all U.S. abortions, by state of occurrence",3.3,MD,Maryland
+"% of all U.S. abortions, by state of occurrence",1.8,MA,Massachusetts
+"% of all U.S. abortions, by state of occurrence",3.4,MI,Michigan
+"% of all U.S. abortions, by state of occurrence",1.2,MN,Minnesota
+"% of all U.S. abortions, by state of occurrence",0.4,MS,Mississippi
+"% of all U.S. abortions, by state of occurrence",0,MO,Missouri
+"% of all U.S. abortions, by state of occurrence",0.2,MT,Montana
+"% of all U.S. abortions, by state of occurrence",0.2,NE,Nebraska
+"% of all U.S. abortions, by state of occurrence",1.2,NV,Nevada
+"% of all U.S. abortions, by state of occurrence",0.2,NH,New Hampshire
+"% of all U.S. abortions, by state of occurrence",5.2,NJ,New Jersey
+"% of all U.S. abortions, by state of occurrence",0.6,NM,New Mexico
+"% of all U.S. abortions, by state of occurrence",11.9,NY,New York
+"% of all U.S. abortions, by state of occurrence",3.4,NC,North Carolina
+"% of all U.S. abortions, by state of occurrence",0.1,ND,North Dakota
+"% of all U.S. abortions, by state of occurrence",2.3,OH,Ohio
+"% of all U.S. abortions, by state of occurrence",1,OK,Oklahoma
+"% of all U.S. abortions, by state of occurrence",0.9,OR,Oregon
+"% of all U.S. abortions, by state of occurrence",3.5,PA,Pennsylvania
+"% of all U.S. abortions, by state of occurrence",0.3,RI,Rhode Island
+"% of all U.S. abortions, by state of occurrence",0.6,SC,South Carolina
+"% of all U.S. abortions, by state of occurrence",0,SD,South Dakota
+"% of all U.S. abortions, by state of occurrence",1.2,TN,Tennessee
+"% of all U.S. abortions, by state of occurrence",6.2,TX,Texas
+"% of all U.S. abortions, by state of occurrence",0.3,UT,Utah
+"% of all U.S. abortions, by state of occurrence",0.1,VT,Vermont
+"% of all U.S. abortions, by state of occurrence",2,VA,Virginia
+"% of all U.S. abortions, by state of occurrence",1.9,WA,Washington
+"% of all U.S. abortions, by state of occurrence",0.1,WV,West Virginia
+"% of all U.S. abortions, by state of occurrence",0.7,WI,Wisconsin
+"% of all U.S. abortions, by state of occurrence",0,WY,Wyoming
+% of residents obtaining abortions who traveled out of state for care,47%,AL,Alabama
+% of residents obtaining abortions who traveled out of state for care,7%,AK,Alaska
+% of residents obtaining abortions who traveled out of state for care,6%,AZ,Arizona
+% of residents obtaining abortions who traveled out of state for care,37%,AR,Arkansas
+% of residents obtaining abortions who traveled out of state for care,0%,CA,California
+% of residents obtaining abortions who traveled out of state for care,1%,CO,Colorado
+% of residents obtaining abortions who traveled out of state for care,6%,CT,Connecticut
+% of residents obtaining abortions who traveled out of state for care,44%,DE,Delaware
+% of residents obtaining abortions who traveled out of state for care,45%,DC,District of Columbia
+% of residents obtaining abortions who traveled out of state for care,1%,FL,Florida
+% of residents obtaining abortions who traveled out of state for care,5%,GA,Georgia
+% of residents obtaining abortions who traveled out of state for care,2%,HI,Hawaii
+% of residents obtaining abortions who traveled out of state for care,26%,ID,Idaho
+% of residents obtaining abortions who traveled out of state for care,1%,IL,Illinois
+% of residents obtaining abortions who traveled out of state for care,31%,IN,Indiana
+% of residents obtaining abortions who traveled out of state for care,12%,IA,Iowa
+% of residents obtaining abortions who traveled out of state for care,4%,KS,Kansas
+% of residents obtaining abortions who traveled out of state for care,39%,KY,Kentucky
+% of residents obtaining abortions who traveled out of state for care,21%,LA,Louisiana
+% of residents obtaining abortions who traveled out of state for care,5%,ME,Maine
+% of residents obtaining abortions who traveled out of state for care,17%,MD,Maryland
+% of residents obtaining abortions who traveled out of state for care,6%,MA,Massachusetts
+% of residents obtaining abortions who traveled out of state for care,1%,MI,Michigan
+% of residents obtaining abortions who traveled out of state for care,3%,MN,Minnesota
+% of residents obtaining abortions who traveled out of state for care,44%,MS,Mississippi
+% of residents obtaining abortions who traveled out of state for care,99%,MO,Missouri
+% of residents obtaining abortions who traveled out of state for care,3%,MT,Montana
+% of residents obtaining abortions who traveled out of state for care,8%,NE,Nebraska
+% of residents obtaining abortions who traveled out of state for care,4%,NV,Nevada
+% of residents obtaining abortions who traveled out of state for care,23%,NH,New Hampshire
+% of residents obtaining abortions who traveled out of state for care,6%,NJ,New Jersey
+% of residents obtaining abortions who traveled out of state for care,8%,NM,New Mexico
+% of residents obtaining abortions who traveled out of state for care,1%,NY,New York
+% of residents obtaining abortions who traveled out of state for care,2%,NC,North Carolina
+% of residents obtaining abortions who traveled out of state for care,13%,ND,North Dakota
+% of residents obtaining abortions who traveled out of state for care,10%,OH,Ohio
+% of residents obtaining abortions who traveled out of state for care,5%,OK,Oklahoma
+% of residents obtaining abortions who traveled out of state for care,5%,OR,Oregon
+% of residents obtaining abortions who traveled out of state for care,14%,PA,Pennsylvania
+% of residents obtaining abortions who traveled out of state for care,17%,RI,Rhode Island
+% of residents obtaining abortions who traveled out of state for care,57%,SC,South Carolina
+% of residents obtaining abortions who traveled out of state for care,84%,SD,South Dakota
+% of residents obtaining abortions who traveled out of state for care,23%,TN,Tennessee
+% of residents obtaining abortions who traveled out of state for care,8%,TX,Texas
+% of residents obtaining abortions who traveled out of state for care,8%,UT,Utah
+% of residents obtaining abortions who traveled out of state for care,7%,VT,Vermont
+% of residents obtaining abortions who traveled out of state for care,25%,VA,Virginia
+% of residents obtaining abortions who traveled out of state for care,5%,WA,Washington
+% of residents obtaining abortions who traveled out of state for care,52%,WV,West Virginia
+% of residents obtaining abortions who traveled out of state for care,17%,WI,Wisconsin
+% of residents obtaining abortions who traveled out of state for care,88%,WY,Wyoming
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",6,AL,Alabama
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",8.6,AK,Alaska
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",9.3,AZ,Arizona
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",5.6,AR,Arkansas
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",19.2,CA,California
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",11.2,CO,Colorado
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",16.7,CT,Connecticut
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",10,DE,Delaware
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",48.9,DC,District of Columbia
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",19.7,FL,Florida
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",18.9,GA,Georgia
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",12.1,HI,Hawaii
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",4.8,ID,Idaho
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",21.3,IL,Illinois
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",6,IN,Indiana
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",5.9,IA,Iowa
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",14.5,KS,Kansas
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",4.8,KY,Kentucky
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",8,LA,Louisiana
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",10.1,ME,Maine
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",25.9,MD,Maryland
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",12.2,MA,Massachusetts
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",16.8,MI,Michigan
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",10.2,MN,Minnesota
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",6.1,MS,Mississippi
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",0.1,MO,Missouri
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",8.2,MT,Montana
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",5.9,NE,Nebraska
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",17.9,NV,Nevada
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",8.3,NH,New Hampshire
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",29.2,NJ,New Jersey
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",14.7,NM,New Mexico
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",28.8,NY,New York
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",15.3,NC,North Carolina
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",7.8,ND,North Dakota
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",9.5,OH,Ohio
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",12.4,OK,Oklahoma
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",10.3,OR,Oregon
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",13.6,PA,Pennsylvania
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",13.3,RI,Rhode Island
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",5.3,SC,South Carolina
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",0.8,SD,South Dakota
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",8.1,TN,Tennessee
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",9.5,TX,Texas
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",4.4,UT,Utah
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",10.7,VT,Vermont
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",11,VA,Virginia
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",11.7,WA,Washington
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",3.1,WV,West Virginia
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",6.4,WI,Wisconsin
+"No. of abortions per 1,000 women aged 15-44, by state of occurrence",0.9,WY,Wyoming
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.5,AL,Alabama
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.2,AK,Alaska
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.7,AZ,Arizona
+"No. of abortions per 1,000 women aged 15-44, by state of residence",7.8,AR,Arkansas
+"No. of abortions per 1,000 women aged 15-44, by state of residence",19,CA,California
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.9,CO,Colorado
+"No. of abortions per 1,000 women aged 15-44, by state of residence",17.1,CT,Connecticut
+"No. of abortions per 1,000 women aged 15-44, by state of residence",15.8,DE,Delaware
+"No. of abortions per 1,000 women aged 15-44, by state of residence",26.1,DC,District of Columbia
+"No. of abortions per 1,000 women aged 15-44, by state of residence",18.8,FL,Florida
+"No. of abortions per 1,000 women aged 15-44, by state of residence",16.6,GA,Georgia
+"No. of abortions per 1,000 women aged 15-44, by state of residence",12.1,HI,Hawaii
+"No. of abortions per 1,000 women aged 15-44, by state of residence",6,ID,Idaho
+"No. of abortions per 1,000 women aged 15-44, by state of residence",17.1,IL,Illinois
+"No. of abortions per 1,000 women aged 15-44, by state of residence",8.2,IN,Indiana
+"No. of abortions per 1,000 women aged 15-44, by state of residence",5.9,IA,Iowa
+"No. of abortions per 1,000 women aged 15-44, by state of residence",7.3,KS,Kansas
+"No. of abortions per 1,000 women aged 15-44, by state of residence",6.7,KY,Kentucky
+"No. of abortions per 1,000 women aged 15-44, by state of residence",8.4,LA,Louisiana
+"No. of abortions per 1,000 women aged 15-44, by state of residence",10.1,ME,Maine
+"No. of abortions per 1,000 women aged 15-44, by state of residence",24.9,MD,Maryland
+"No. of abortions per 1,000 women aged 15-44, by state of residence",12.5,MA,Massachusetts
+"No. of abortions per 1,000 women aged 15-44, by state of residence",16.1,MI,Michigan
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.5,MN,Minnesota
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.9,MS,Mississippi
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.9,MO,Missouri
+"No. of abortions per 1,000 women aged 15-44, by state of residence",7.6,MT,Montana
+"No. of abortions per 1,000 women aged 15-44, by state of residence",5.4,NE,Nebraska
+"No. of abortions per 1,000 women aged 15-44, by state of residence",17.7,NV,Nevada
+"No. of abortions per 1,000 women aged 15-44, by state of residence",8.7,NH,New Hampshire
+"No. of abortions per 1,000 women aged 15-44, by state of residence",28.9,NJ,New Jersey
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.9,NM,New Mexico
+"No. of abortions per 1,000 women aged 15-44, by state of residence",27.6,NY,New York
+"No. of abortions per 1,000 women aged 15-44, by state of residence",13,NC,North Carolina
+"No. of abortions per 1,000 women aged 15-44, by state of residence",6.4,ND,North Dakota
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.9,OH,Ohio
+"No. of abortions per 1,000 women aged 15-44, by state of residence",10.7,OK,Oklahoma
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.7,OR,Oregon
+"No. of abortions per 1,000 women aged 15-44, by state of residence",14.7,PA,Pennsylvania
+"No. of abortions per 1,000 women aged 15-44, by state of residence",13.6,RI,Rhode Island
+"No. of abortions per 1,000 women aged 15-44, by state of residence",11.9,SC,South Carolina
+"No. of abortions per 1,000 women aged 15-44, by state of residence",4.1,SD,South Dakota
+"No. of abortions per 1,000 women aged 15-44, by state of residence",7.8,TN,Tennessee
+"No. of abortions per 1,000 women aged 15-44, by state of residence",10.1,TX,Texas
+"No. of abortions per 1,000 women aged 15-44, by state of residence",4.5,UT,Utah
+"No. of abortions per 1,000 women aged 15-44, by state of residence",9.5,VT,Vermont
+"No. of abortions per 1,000 women aged 15-44, by state of residence",13.8,VA,Virginia
+"No. of abortions per 1,000 women aged 15-44, by state of residence",11.6,WA,Washington
+"No. of abortions per 1,000 women aged 15-44, by state of residence",5.7,WV,West Virginia
+"No. of abortions per 1,000 women aged 15-44, by state of residence",7.6,WI,Wisconsin
+"No. of abortions per 1,000 women aged 15-44, by state of residence",6.4,WY,Wyoming
+"No. of abortions, by state of occurrence",5700,AL,Alabama
+"No. of abortions, by state of occurrence",1240,AK,Alaska
+"No. of abortions, by state of occurrence",13320,AZ,Arizona
+"No. of abortions, by state of occurrence",3250,AR,Arkansas
+"No. of abortions, by state of occurrence",154060,CA,California
+"No. of abortions, by state of occurrence",13420,CO,Colorado
+"No. of abortions, by state of occurrence",11170,CT,Connecticut
+"No. of abortions, by state of occurrence",1830,DE,Delaware
+"No. of abortions, by state of occurrence",9410,DC,District of Columbia
+"No. of abortions, by state of occurrence",77400,FL,Florida
+"No. of abortions, by state of occurrence",41620,GA,Georgia
+"No. of abortions, by state of occurrence",3130,HI,Hawaii
+"No. of abortions, by state of occurrence",1690,ID,Idaho
+"No. of abortions, by state of occurrence",52780,IL,Illinois
+"No. of abortions, by state of occurrence",7880,IN,Indiana
+"No. of abortions, by state of occurrence",3510,IA,Iowa
+"No. of abortions, by state of occurrence",8180,KS,Kansas
+"No. of abortions, by state of occurrence",4080,KY,Kentucky
+"No. of abortions, by state of occurrence",7360,LA,Louisiana
+"No. of abortions, by state of occurrence",2370,ME,Maine
+"No. of abortions, by state of occurrence",30750,MD,Maryland
+"No. of abortions, by state of occurrence",17060,MA,Massachusetts
+"No. of abortions, by state of occurrence",31500,MI,Michigan
+"No. of abortions, by state of occurrence",11060,MN,Minnesota
+"No. of abortions, by state of occurrence",3560,MS,Mississippi
+"No. of abortions, by state of occurrence",170,MO,Missouri
+"No. of abortions, by state of occurrence",1630,MT,Montana
+"No. of abortions, by state of occurrence",2200,NE,Nebraska
+"No. of abortions, by state of occurrence",11010,NV,Nevada
+"No. of abortions, by state of occurrence",2050,NH,New Hampshire
+"No. of abortions, by state of occurrence",48830,NJ,New Jersey
+"No. of abortions, by state of occurrence",5880,NM,New Mexico
+"No. of abortions, by state of occurrence",110360,NY,New York
+"No. of abortions, by state of occurrence",31850,NC,North Carolina
+"No. of abortions, by state of occurrence",1170,ND,North Dakota
+"No. of abortions, by state of occurrence",20990,OH,Ohio
+"No. of abortions, by state of occurrence",9690,OK,Oklahoma
+"No. of abortions, by state of occurrence",8560,OR,Oregon
+"No. of abortions, by state of occurrence",32260,PA,Pennsylvania
+"No. of abortions, by state of occurrence",2760,RI,Rhode Island
+"No. of abortions, by state of occurrence",5300,SC,South Carolina
+"No. of abortions, by state of occurrence",130,SD,South Dakota
+"No. of abortions, by state of occurrence",10850,TN,Tennessee
+"No. of abortions, by state of occurrence",58020,TX,Texas
+"No. of abortions, by state of occurrence",3120,UT,Utah
+"No. of abortions, by state of occurrence",1230,VT,Vermont
+"No. of abortions, by state of occurrence",18740,VA,Virginia
+"No. of abortions, by state of occurrence",17980,WA,Washington
+"No. of abortions, by state of occurrence",990,WV,West Virginia
+"No. of abortions, by state of occurrence",6960,WI,Wisconsin
+"No. of abortions, by state of occurrence",100,WY,Wyoming
+"No. of abortions, by state of occurrence",5700,AL,Alabama
+"No. of abortions, by state of occurrence",1240,AK,Alaska
+"No. of abortions, by state of occurrence",13320,AZ,Arizona
+"No. of abortions, by state of occurrence",3250,AR,Arkansas
+"No. of abortions, by state of occurrence",154060,CA,California
+"No. of abortions, by state of occurrence",13420,CO,Colorado
+"No. of abortions, by state of occurrence",11170,CT,Connecticut
+"No. of abortions, by state of occurrence",1830,DE,Delaware
+"No. of abortions, by state of occurrence",9410,DC,District of Columbia
+"No. of abortions, by state of occurrence",77400,FL,Florida
+"No. of abortions, by state of occurrence",41620,GA,Georgia
+"No. of abortions, by state of occurrence",3130,HI,Hawaii
+"No. of abortions, by state of occurrence",1690,ID,Idaho
+"No. of abortions, by state of occurrence",52780,IL,Illinois
+"No. of abortions, by state of occurrence",7880,IN,Indiana
+"No. of abortions, by state of occurrence",3510,IA,Iowa
+"No. of abortions, by state of occurrence",8180,KS,Kansas
+"No. of abortions, by state of occurrence",4080,KY,Kentucky
+"No. of abortions, by state of occurrence",7360,LA,Louisiana
+"No. of abortions, by state of occurrence",2370,ME,Maine
+"No. of abortions, by state of occurrence",30750,MD,Maryland
+"No. of abortions, by state of occurrence",17060,MA,Massachusetts
+"No. of abortions, by state of occurrence",31500,MI,Michigan
+"No. of abortions, by state of occurrence",11060,MN,Minnesota
+"No. of abortions, by state of occurrence",3560,MS,Mississippi
+"No. of abortions, by state of occurrence",170,MO,Missouri
+"No. of abortions, by state of occurrence",1630,MT,Montana
+"No. of abortions, by state of occurrence",2200,NE,Nebraska
+"No. of abortions, by state of occurrence",11010,NV,Nevada
+"No. of abortions, by state of occurrence",2050,NH,New Hampshire
+"No. of abortions, by state of occurrence",48830,NJ,New Jersey
+"No. of abortions, by state of occurrence",5880,NM,New Mexico
+"No. of abortions, by state of occurrence",110360,NY,New York
+"No. of abortions, by state of occurrence",31850,NC,North Carolina
+"No. of abortions, by state of occurrence",1170,ND,North Dakota
+"No. of abortions, by state of occurrence",20990,OH,Ohio
+"No. of abortions, by state of occurrence",9690,OK,Oklahoma
+"No. of abortions, by state of occurrence",8560,OR,Oregon
+"No. of abortions, by state of occurrence",32260,PA,Pennsylvania
+"No. of abortions, by state of occurrence",2760,RI,Rhode Island
+"No. of abortions, by state of occurrence",5300,SC,South Carolina
+"No. of abortions, by state of occurrence",130,SD,South Dakota
+"No. of abortions, by state of occurrence",10850,TN,Tennessee
+"No. of abortions, by state of occurrence",58020,TX,Texas
+"No. of abortions, by state of occurrence",3120,UT,Utah
+"No. of abortions, by state of occurrence",1230,VT,Vermont
+"No. of abortions, by state of occurrence",18740,VA,Virginia
+"No. of abortions, by state of occurrence",17980,WA,Washington
+"No. of abortions, by state of occurrence",990,WV,West Virginia
+"No. of abortions, by state of occurrence",6960,WI,Wisconsin
+"No. of abortions, by state of occurrence",100,WY,Wyoming
+"No. of abortions, by state of occurrence",5700,AL,Alabama
+"No. of abortions, by state of occurrence",1240,AK,Alaska
+"No. of abortions, by state of occurrence",13320,AZ,Arizona
+"No. of abortions, by state of occurrence",3250,AR,Arkansas
+"No. of abortions, by state of occurrence",154060,CA,California
+"No. of abortions, by state of occurrence",13420,CO,Colorado
+"No. of abortions, by state of occurrence",11170,CT,Connecticut
+"No. of abortions, by state of occurrence",1830,DE,Delaware
+"No. of abortions, by state of occurrence",9410,DC,District of Columbia
+"No. of abortions, by state of occurrence",77400,FL,Florida
+"No. of abortions, by state of occurrence",41620,GA,Georgia
+"No. of abortions, by state of occurrence",3130,HI,Hawaii
+"No. of abortions, by state of occurrence",1690,ID,Idaho
+"No. of abortions, by state of occurrence",52780,IL,Illinois
+"No. of abortions, by state of occurrence",7880,IN,Indiana
+"No. of abortions, by state of occurrence",3510,IA,Iowa
+"No. of abortions, by state of occurrence",8180,KS,Kansas
+"No. of abortions, by state of occurrence",4080,KY,Kentucky
+"No. of abortions, by state of occurrence",7360,LA,Louisiana
+"No. of abortions, by state of occurrence",2370,ME,Maine
+"No. of abortions, by state of occurrence",30750,MD,Maryland
+"No. of abortions, by state of occurrence",17060,MA,Massachusetts
+"No. of abortions, by state of occurrence",31500,MI,Michigan
+"No. of abortions, by state of occurrence",11060,MN,Minnesota
+"No. of abortions, by state of occurrence",3560,MS,Mississippi
+"No. of abortions, by state of occurrence",170,MO,Missouri
+"No. of abortions, by state of occurrence",1630,MT,Montana
+"No. of abortions, by state of occurrence",2200,NE,Nebraska
+"No. of abortions, by state of occurrence",11010,NV,Nevada
+"No. of abortions, by state of occurrence",2050,NH,New Hampshire
+"No. of abortions, by state of occurrence",48830,NJ,New Jersey
+"No. of abortions, by state of occurrence",5880,NM,New Mexico
+"No. of abortions, by state of occurrence",110360,NY,New York
+"No. of abortions, by state of occurrence",31850,NC,North Carolina
+"No. of abortions, by state of occurrence",1170,ND,North Dakota
+"No. of abortions, by state of occurrence",20990,OH,Ohio
+"No. of abortions, by state of occurrence",9690,OK,Oklahoma
+"No. of abortions, by state of occurrence",8560,OR,Oregon
+"No. of abortions, by state of occurrence",32260,PA,Pennsylvania
+"No. of abortions, by state of occurrence",2760,RI,Rhode Island
+"No. of abortions, by state of occurrence",5300,SC,South Carolina
+"No. of abortions, by state of occurrence",130,SD,South Dakota
+"No. of abortions, by state of occurrence",10850,TN,Tennessee
+"No. of abortions, by state of occurrence",58020,TX,Texas
+"No. of abortions, by state of occurrence",3120,UT,Utah
+"No. of abortions, by state of occurrence",1230,VT,Vermont
+"No. of abortions, by state of occurrence",18740,VA,Virginia
+"No. of abortions, by state of occurrence",17980,WA,Washington
+"No. of abortions, by state of occurrence",990,WV,West Virginia
+"No. of abortions, by state of occurrence",6960,WI,Wisconsin
+"No. of abortions, by state of occurrence",100,WY,Wyoming
+"No. of abortions, by state of residence",9060,AL,Alabama
+"No. of abortions, by state of residence",1320,AK,Alaska
+"No. of abortions, by state of residence",13820,AZ,Arizona
+"No. of abortions, by state of residence",4510,AR,Arkansas
+"No. of abortions, by state of residence",152400,CA,California
+"No. of abortions, by state of residence",11830,CO,Colorado
+"No. of abortions, by state of residence",11460,CT,Connecticut
+"No. of abortions, by state of residence",2870,DE,Delaware
+"No. of abortions, by state of residence",5010,DC,District of Columbia
+"No. of abortions, by state of residence",73830,FL,Florida
+"No. of abortions, by state of residence",36470,GA,Georgia
+"No. of abortions, by state of residence",3120,HI,Hawaii
+"No. of abortions, by state of residence",2130,ID,Idaho
+"No. of abortions, by state of residence",42250,IL,Illinois
+"No. of abortions, by state of residence",10810,IN,Indiana
+"No. of abortions, by state of residence",3510,IA,Iowa
+"No. of abortions, by state of residence",4120,KS,Kansas
+"No. of abortions, by state of residence",5690,KY,Kentucky
+"No. of abortions, by state of residence",7760,LA,Louisiana
+"No. of abortions, by state of residence",2370,ME,Maine
+"No. of abortions, by state of residence",29590,MD,Maryland
+"No. of abortions, by state of residence",17460,MA,Massachusetts
+"No. of abortions, by state of residence",30150,MI,Michigan
+"No. of abortions, by state of residence",10380,MN,Minnesota
+"No. of abortions, by state of residence",5760,MS,Mississippi
+"No. of abortions, by state of residence",11710,MO,Missouri
+"No. of abortions, by state of residence",1510,MT,Montana
+"No. of abortions, by state of residence",2020,NE,Nebraska
+"No. of abortions, by state of residence",10870,NV,Nevada
+"No. of abortions, by state of residence",2150,NH,New Hampshire
+"No. of abortions, by state of residence",48390,NJ,New Jersey
+"No. of abortions, by state of residence",3950,NM,New Mexico
+"No. of abortions, by state of residence",105990,NY,New York
+"No. of abortions, by state of residence",27030,NC,North Carolina
+"No. of abortions, by state of residence",960,ND,North Dakota
+"No. of abortions, by state of residence",21920,OH,Ohio
+"No. of abortions, by state of residence",8330,OK,Oklahoma
+"No. of abortions, by state of residence",8110,OR,Oregon
+"No. of abortions, by state of residence",34950,PA,Pennsylvania
+"No. of abortions, by state of residence",2830,RI,Rhode Island
+"No. of abortions, by state of residence",11830,SC,South Carolina
+"No. of abortions, by state of residence",680,SD,South Dakota
+"No. of abortions, by state of residence",10450,TN,Tennessee
+"No. of abortions, by state of residence",61500,TX,Texas
+"No. of abortions, by state of residence",3220,UT,Utah
+"No. of abortions, by state of residence",1100,VT,Vermont
+"No. of abortions, by state of residence",23390,VA,Virginia
+"No. of abortions, by state of residence",17910,WA,Washington
+"No. of abortions, by state of residence",1780,WV,West Virginia
+"No. of abortions, by state of residence",8290,WI,Wisconsin
+"No. of abortions, by state of residence",700,WY,Wyoming
